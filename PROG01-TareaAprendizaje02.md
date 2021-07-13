@@ -3,7 +3,7 @@
 1. **Señala cuáles son palabras reservadas:**
    - double, int.
    - const, goto.
-2.** Cuando creamos programas, es recomendable colocar todas las sentencias una detrás de otra, separadas por puntos y comas en una misma línea. De este modo ahorraremos líneas de código.**
+2. **Cuando creamos programas, es recomendable colocar todas las sentencias una detrás de otra, separadas por puntos y comas en una misma línea. De este modo ahorraremos líneas de código.**
     - Falso
 3. **¿Cuál de estas palabras se puede utilizar como identificador en Java?**
     - println
