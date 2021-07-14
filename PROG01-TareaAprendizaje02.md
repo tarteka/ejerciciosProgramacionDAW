@@ -3,8 +3,8 @@
 1. **Una misma sentencia puede ocupar varias líneas en el programa**
     - Verdadero
 2. **Los tipos de comentarios que hay son:**
-    - Una sola línea (//), múltiples líneas (/* */) y Javadoc (/** */)
-3. **Si en nuestro código fuente, comenzamos un comentario con los caracteres /* deberemos finalizar el comentario con //**
+    - Una sola línea (`//`), múltiples líneas (`/* */`) y Javadoc (`/** */`)
+3. **Si en nuestro código fuente, comenzamos un comentario con los caracteres `/*` deberemos finalizar el comentario con `//`**
    - Falso
 4. **Señala cuáles son palabras reservadas:**
    - double, int.
